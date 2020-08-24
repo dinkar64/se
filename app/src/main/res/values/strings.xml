@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">se</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="done">Done</string>
+    <string name="enter_details_for_donation">Enter Details for Donation</string>
+    <string name="add_details">Add Details</string>
+</resources>
